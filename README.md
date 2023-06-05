@@ -5,6 +5,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Zeeshan-Mehdi110](https://github.com/Zeeshan-Mehdi110)
 
+- 📫 How to reach me **zeeshanmehdi253@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/zeeshan110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad zeeshan mehdi" height="30" width="40" /></a>
