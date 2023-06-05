@@ -1,4 +1,4 @@
-<h1 align="center">Hi ☺, I'm Zeeshan Mehdi</h1>
+<h1 align="center">Hi 👋, I'm Zeeshan Mehdi</h1>
 <h3 align="center">A passionate MERN stack javascript developer</h3>
 
 - 🔭 I’m currently working on [Hekto Ecommerce Website](https://github.com/Zeeshan-Mehdi110/Hekto-Ecommerce-Website)
