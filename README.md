@@ -2,9 +2,6 @@
 <h3 align="center">A passionate MERN stack javascript developer</h3>
 
 - 🔭 I’m currently working on [Hekto Ecommerce Website](https://github.com/Zeeshan-Mehdi110/Hekto-Ecommerce-Website)
-
-- 👨‍💻 All of my projects are available at [https://github.com/Zeeshan-Mehdi110](https://github.com/Zeeshan-Mehdi110)
-
 - 📫 How to reach me **zeeshanmehdi253@gmail.com**
 - 🎗 My Linkedin profile [https://www.linkedin.com/in/zeeshan110]
 
