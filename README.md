@@ -6,6 +6,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Zeeshan-Mehdi110](https://github.com/Zeeshan-Mehdi110)
 
 - 📫 How to reach me **zeeshanmehdi253@gmail.com**
+- 🎗 My Linkedin profile [https://www.linkedin.com/in/zeeshan110]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
