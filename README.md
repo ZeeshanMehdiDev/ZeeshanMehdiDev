@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zeeshan Mehdi</h1>
 <h3 align="center">A passionate MERN stack javascript developer</h3>
 
-- 📫 How to reach me **zeeshanmehdi253@gmail.com**
+- 📫 How to reach me **zeeshanmehdi.dev@gmail.com**
 - 🎗 My Linkedin profile [https://www.linkedin.com/in/zeeshan110]
 
 <h3 align="left">Connect with me:</h3>
