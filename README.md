@@ -3,6 +3,7 @@
 
 - 📫 How to reach me **zeeshanmehdi.dev@gmail.com**
 - 🎗 My LinkedIn profile [https://www.linkedin.com/in/zeeshanmehdi]
+- 📫 How to reach me on Fiverr **https://www.fiverr.com/mehdi_92**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
