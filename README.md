@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zeeshan Mehdi</h1>
-<h3 align="center">A passionate full stack javascript developer</h3>
+<h3 align="center">A passionate full stack software developer</h3>
 
 - 📫 How to reach me **zeeshanmehdi.dev@gmail.com**
 - 🎗 My LinkedIn profile [https://www.linkedin.com/in/zeeshanmehdi]
