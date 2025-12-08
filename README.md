@@ -8,7 +8,6 @@ I'm a passionate software engineer with 3+ years of experience building scalable
 
 ## 🚀 About Me
 
-- 🎓 **B.S. Computer Science** Graduate
 - 💼 **Full Stack & DevOps Lead Developer** @ Kakushin
 - ⭐ **Level 1 Seller** @ Fiverr
 - 🌐 Specialized in **Next.js, React Native, Node.js, Kotlin & Medusa.js**
