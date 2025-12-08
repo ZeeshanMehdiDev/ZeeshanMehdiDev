@@ -51,16 +51,24 @@ I'm a passionate software engineer with 3+ years of experience building scalable
 
 ---
 
-## 📊 GitHub Statistics
+## 🎯 What I Do
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=zeeshanmehdidev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshanmehdidev&theme=tokyonight&hide_border=true" />
-</p>
+- ⚡ Building **scalable full-stack applications** with modern JavaScript frameworks
+- 📱 Developing **cross-platform mobile apps** using React Native and Flutter
+- 🏗️ Architecting **microservices** and **RESTful APIs** with Node.js
+- ☁️ Managing **cloud infrastructure** and **CI/CD pipelines** on AWS
+- 🛒 Implementing **e-commerce solutions** with Medusa.js
+- 🔧 Optimizing **DevOps workflows** for efficient deployment and monitoring
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshanmehdidev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
+---
+
+## 🏆 Experience Highlights
+
+- 💼 **3+ Years** of professional software development experience
+- 👥 Leading development teams and mentoring junior developers
+- 🎯 Successfully delivered **20+ projects** for clients worldwide
+- ⭐ Maintained **Level 1 Seller** status on Fiverr with excellent reviews
+- 🚀 Specialized in building **high-performance** and **scalable** applications
 
 ---
 
