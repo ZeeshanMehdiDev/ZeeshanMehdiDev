@@ -9,7 +9,7 @@ check complete portfolio website at: https://zeeshanmehdi.dev
 
 ## 🚀 About Me
 
-- ⭐ **Level 1 Seller** @ Fiverr
+- ⭐ **Top Rated** @ Upwork **Level 2 Seller** @ Fiverr
 - 🌐 Specialized in **Next.js, React Native, Node.js, Kotlin & Medusa.js**
 - 🏗️ Building robust **web and mobile applications** with modern tech stacks
 - 🔧 DevOps enthusiast with expertise in cloud infrastructure and CI/CD
