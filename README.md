@@ -1,19 +1,23 @@
-# Hi there, I'm Zeeshan Mehdi 👋
+# Hi there, I'm Zeeshan Mehdi 👋                                                                    
+                                                                                                    
+  ### Full Stack & DevOps Lead Developer | Next.js · Medusa.js · TypeScript · React Native            
+   
+  Software engineer with 3+ years building production-grade web and mobile applications. Currently    
+  Full Stack & DevOps Lead at **Kakushin**, managing 19+ live applications across a dedicated VPS   
+  infrastructure.                                                                                     
+                                                                                                    
+  🌐 Portfolio: [zeeshanmehdi.dev](https://zeeshanmehdi.dev)                                          
+   
+---                                                                                                 
+                                                                                                    
+  ## 🚀 About Me
 
-### Full Stack & DevOps Lead Developer | Specializing in Modern Web & Mobile Solutions
-
-I'm a passionate software engineer with 3+ years of experience building scalable applications and leading development teams. Currently serving as Full Stack & DevOps Lead Developer at **Kakushin**, where I architect and implement enterprise-grade solutions.
-check complete portfolio website at: https://zeeshanmehdi.dev
-
----
-
-## 🚀 About Me
-
-- ⭐ **Top Rated** @ Upwork **Level 2 Seller** @ Fiverr
-- 🌐 Specialized in **Next.js, React Native, Node.js, Kotlin & Medusa.js**
-- 🏗️ Building robust **web and mobile applications** with modern tech stacks
-- 🔧 DevOps enthusiast with expertise in cloud infrastructure and CI/CD
-
+  - ⭐ **Top Rated** @ Upwork · **Level 2 Seller** @ Fiverr
+  - 🛒 Specialized in **Medusa.js** e-commerce — storefronts, custom modules, v1→v2 migrations
+  - 🌐 Full-stack with **Next.js, React, Node.js, TypeScript**                                        
+  - 📱 Mobile development with **React Native** and **Kotlin (Android)**                              
+  - 🔧 DevOps: **Nginx, PM2, Docker, VPS management, deployment pipelines**
+  
 ---
 
 ## 💻 Core Technologies
